@@ -1,0 +1,6 @@
+main: fr.opoc.gravity.GravityMain
+name: Gravity
+version: 1.0
+author: Opoc
+commands:
+  gravity:
